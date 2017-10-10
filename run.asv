@@ -1,0 +1,10 @@
+
+
+A=imread('lena.jpg');
+
+imwrite(A,'lena.pgm');
+
+B=imrotate(A,90,'bilinear');
+
+[image, descrips, locs] = sift('lena.pgm');   
+showkeys(image, locs);  
