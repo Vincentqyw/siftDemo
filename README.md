@@ -1,5 +1,5 @@
 ## What is this project?
-This is a sample sift demo developed by [David Lowe](http://www.cs.ubc.ca/~lowe/home.html).
+This is a simple sift demo developed by [David Lowe](http://www.cs.ubc.ca/~lowe/home.html).
 
 ## How to use?
 
